@@ -1,0 +1,7 @@
+1,Lion,Carnivore,10,Мясо
+5,Pantera,Carnivore,10,Мясо
+2,Tiger,Carnivore,10,Мясо
+3,Bear,Omnivore,8,Трава и мясо
+6,Pig,Omnivore,8,Трава и мясо
+7,Cow,Herbivore,5,Трава
+4,Elephant,Herbivore,5,Трава

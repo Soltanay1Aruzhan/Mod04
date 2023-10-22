@@ -1,0 +1,10 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04DZ\CarConsoleApp\bin\Debug\CarConsoleApp.exe.config
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04DZ\CarConsoleApp\bin\Debug\CarConsoleApp.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04DZ\CarConsoleApp\bin\Debug\CarConsoleApp.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04DZ\CarConsoleApp\bin\Debug\Mod04DZ.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04DZ\CarConsoleApp\bin\Debug\Mod04DZ.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04DZ\CarConsoleApp\obj\Debug\CarConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04DZ\CarConsoleApp\obj\Debug\CarConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04DZ\CarConsoleApp\obj\Debug\CarConsoleApp.csproj.CopyComplete
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04DZ\CarConsoleApp\obj\Debug\CarConsoleApp.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04DZ\CarConsoleApp\obj\Debug\CarConsoleApp.pdb

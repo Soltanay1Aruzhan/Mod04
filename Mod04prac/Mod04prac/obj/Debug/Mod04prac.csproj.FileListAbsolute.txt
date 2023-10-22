@@ -1,0 +1,10 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04prac\Mod04prac\bin\Debug\Mod04prac.exe.config
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04prac\Mod04prac\bin\Debug\Mod04prac.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04prac\Mod04prac\bin\Debug\Mod04prac.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04prac\Mod04prac\obj\Debug\Mod04prac.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04prac\Mod04prac\obj\Debug\Mod04prac.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04prac\Mod04prac\obj\Debug\Mod04prac.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04prac\Mod04prac\obj\Debug\Mod04prac.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04prac\Mod04prac\bin\Debug\Task2.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04prac\Mod04prac\bin\Debug\Task2.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04prac\Mod04prac\obj\Debug\Mod04prac.csproj.CopyComplete

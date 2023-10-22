@@ -1,0 +1,6 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04DZ\Mod04DZ\bin\Debug\Mod04DZ.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04DZ\Mod04DZ\bin\Debug\Mod04DZ.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04DZ\Mod04DZ\obj\Debug\Mod04DZ.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04DZ\Mod04DZ\obj\Debug\Mod04DZ.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04DZ\Mod04DZ\obj\Debug\Mod04DZ.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04DZ\Mod04DZ\obj\Debug\Mod04DZ.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04prac\Task2\bin\Debug\Task2.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04prac\Task2\bin\Debug\Task2.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04prac\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04prac\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04prac\Task2\obj\Debug\Task2.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod04prac\Task2\obj\Debug\Task2.pdb
